@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    float: left;
+    width: 20%;
+}
+.section-container{
+    float: left ;
+    width: 60%;
+}
+aside{
+    float: left;
+    width: 20%;
+}
+footer{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
